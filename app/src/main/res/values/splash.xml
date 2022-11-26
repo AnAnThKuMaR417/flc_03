@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.AppCompat.Starting" parent="Theme.SplashScreen">
+    <item name="windowSplashScreenBackground">#F1EEEE</item>
+    <item name="windowSplashScreenAnimatedIcon">@drawable/flc_logo</item>
+    <item name="postSplashScreenTheme">@style/Theme.FLC03</item>
+    </style>
+</resources>
